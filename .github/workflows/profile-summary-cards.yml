@@ -19,4 +19,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 2 
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
-          EXCLUDE: "vim"
+          EXCLUDE: "Vim Script"
